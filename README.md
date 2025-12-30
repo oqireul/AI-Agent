@@ -1,0 +1,1 @@
+You need to download both the .env and the agent.py in order for the agent to work. Yes, I know im revealing my OpenAI API key, whatever. If i need to, ill just delete the key, and if for you it isnt working, google the error code(s) and fix it as needed.
