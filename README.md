@@ -1,1 +1,3 @@
-Make ur own .env file with ur own OpenAI API key bc I said so. My previous API key for whatever reason deleted itself.
+Version 3.0 brings typo recognition and fixes them, advanced web searching, and some bug fixes.
+
+Please make your own OpenAI API key and put it in the same folder as the AI agent file.
